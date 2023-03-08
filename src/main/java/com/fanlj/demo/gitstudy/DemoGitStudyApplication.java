@@ -16,6 +16,7 @@ public class DemoGitStudyApplication {
         System.out.println("hello git7 master-test");
 
         System.out.println("hot-fix test!");
+        System.out.println("push test!");
         SpringApplication.run(DemoGitStudyApplication.class, args);
     }
 
