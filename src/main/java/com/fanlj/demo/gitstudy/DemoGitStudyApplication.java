@@ -27,6 +27,7 @@ public class DemoGitStudyApplication {
         System.out.println("rest pull test6!");
         System.out.println("rest pull test7!");
         System.out.println("rest pull test8!");
+        System.out.println("rest pull test9!");
         SpringApplication.run(DemoGitStudyApplication.class, args);
     }
 
