@@ -23,6 +23,7 @@ public class DemoGitStudyApplication {
         System.out.println("reset push testasasaasas!");
         System.out.println("rest push test3111!");
         System.out.println("rest push test4!");
+        System.out.println("rest pull test5!");
         SpringApplication.run(DemoGitStudyApplication.class, args);
     }
 
